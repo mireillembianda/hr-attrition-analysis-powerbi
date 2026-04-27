@@ -23,6 +23,6 @@ Analyse de l’attrition des employés sur un dataset RH (IBM).
 - Corrélation entre satisfaction et churn
 - Insights actionnables pour la rétention
 
-## 📂 Fichiers
+## Fichiers
 - `dashboard/` : fichier Power BI (.pbix)
 - `images/` : captures
